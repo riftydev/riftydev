@@ -4,10 +4,10 @@
   - Linux Fundementals
   - Python (for the PCEP)
 
--🔭 Working on:
-  -Godot 2D Platformer
-  -My Website
-  -My Blog (check out my repository)
+- 🔭 Working on:
+  - Godot 2D Platformer
+  - My Website
+  - My Blog (check out my repository)
 
 -</>Languages: Python, HTML, CSS, Javascript
 
