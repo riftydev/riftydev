@@ -9,7 +9,7 @@
   - My Website
   - My Blog (check out my repository)
 
--</>Languages: Python, HTML, CSS, Javascript
+</>Languages: Python, HTML, CSS, Javascript
 
 
 ## 🌐 Socials:
