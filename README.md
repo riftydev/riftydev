@@ -1,5 +1,15 @@
 # 💫 About Me:
-- 🌱 Currently learning: How to code C++ and Python<br>- 🔭 Working on: A Triple AAA Unreal Engine Game<br>- 🌍 Languages: Python, HTML, CSS, Javascript<br>
+- 🌱 Currently learning:
+  - Introduction To Pentesting
+  - Linux Fundementals
+  - Python (for the PCEP)
+
+-🔭 Working on:
+  -Godot 2D Platformer
+  -My Website
+  -My Blog (check out my repository)
+
+-</>Languages: Python, HTML, CSS, Javascript
 
 
 ## 🌐 Socials:
