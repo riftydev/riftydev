@@ -1,8 +1,16 @@
 # 💫 About Me:
 - 🌱 Currently learning:
-  - Introduction To Pentesting
-  - Linux Fundementals
-  - Python (for the PCEP)
+  - Cybersecurity
+      - Networking
+      - Pentesting
+      - Linux Fundementals
+      - Windows Fundementals
+  - Game Development
+      - Godot
+      - Unreal Engine
+      - Blender
+      - Roblox Studio
+  - Python (for the PCEP cert)
 
 - 🔭 Working on:
   - Godot 2D Platformer
