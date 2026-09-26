@@ -14,8 +14,6 @@
 
 - 🔭 Working on:
   - Godot 2D Platformer
-  - My Website
-  - My Blog (check out my repository)
 
 </>Languages: Python, HTML, CSS, Javascript
 
